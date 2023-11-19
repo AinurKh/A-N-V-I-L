@@ -8,4 +8,10 @@ public class Main {
             System.out.println("AINURCHIK");
         }
     }
+    void plus(){
+
+    }
+    void minus(){
+
+    }
 }
