@@ -1,11 +1,14 @@
 package org.example;
 
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
 public class Main {
     public static void main(String[] args) {
-        for (int i = 0; i < 4; i++) {
-            System.out.println("Hello world!");
-            System.out.println("fffff");
-            System.out.println("AINURCHIK");
+        String w = "dadd";
+        if (w.startsWith("d")){
+            System.out.println("SSSS");
         }
-    }
+}
 }
